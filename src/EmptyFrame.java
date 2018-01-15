@@ -4,10 +4,6 @@ import javax.swing.JFrame;
 
 public class EmptyFrame extends JFrame {
     
-    public EmptyFrame() {
-        
-    }
-    
     public void initialize() {
         setTitle("Frame Test");
         setSize(300, 300); // width height in pixels
